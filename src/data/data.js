@@ -1,0 +1,130 @@
+const DARE_DEVIL = require('../../assets/images/dare-devil.jpeg');
+const HOUSE_OF_CARDS = require('../../assets/images/house-of-cards.jpeg');
+const LUKE_CAGE = require('../../assets/images/luke-cage.jpeg');
+const ORANGE_IS_THE_NEW_BLACK = require('../../assets/images/orange-is-the-new-black.jpeg');
+const STRANGER_THINGS = require('../../assets/images/stranger-things.jpeg');
+
+const SHOWS = [
+  {
+    id:1,
+    title: 'Daredevil',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: DARE_DEVIL,
+  },
+  {
+    id:2,
+    title: 'House Of Cards',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: HOUSE_OF_CARDS,
+  },
+  {
+    id:3,
+    title: 'Luke Cage',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: LUKE_CAGE,
+  },
+  { 
+    id:4,
+    title: 'Orange Is The New Black',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: ORANGE_IS_THE_NEW_BLACK,
+  },
+  {
+    id:5,
+    title: 'Stranger Things',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: STRANGER_THINGS,
+  },
+  {
+    id:6,
+    title: 'Daredevil',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: DARE_DEVIL,
+  },
+  {
+    id:7,
+    title: 'House Of Cards',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: HOUSE_OF_CARDS,
+  },
+  {
+    id:8,
+    title: 'Luke Cage',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: LUKE_CAGE,
+  },
+  {
+    id:9,
+    title: 'Orange Is The New Black',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: ORANGE_IS_THE_NEW_BLACK,
+  },
+  {
+    id:10,
+    title: 'StrangerThings',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: STRANGER_THINGS,
+  },
+  {
+    id:11,
+    title: 'Dare Devil',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: DARE_DEVIL,
+  },
+  {
+    id:12,
+    title: 'House Of Cards',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: HOUSE_OF_CARDS,
+  },
+  {
+    id:13,
+    title: 'LukeCage',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: LUKE_CAGE,
+  },
+  {
+    id:14,
+    title: 'Orange Is TheNewBlack',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: ORANGE_IS_THE_NEW_BLACK,
+  },
+  {
+    id:15,
+    title: 'Stranger Things',
+    summary: 'When a young boy vanishes, a small town uncovers a mystery involving a secret experiment, terrify supernatural forces, and one strange little girl',
+    starring: 'Winona Ryder, David Harbour, Mathew Modine',
+    creator: 'The Duffer Brothers',
+    image: STRANGER_THINGS,
+  },
+];
+
+export default SHOWS;
